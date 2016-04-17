@@ -1,6 +1,6 @@
 require "socket"
  
-server=TCPServer.new('192.168.0.6',3131)
+server=TCPServer.new('192.168.0.10',3131) # Local neworkdeki ip numarınızla aynı olmalıdır.
  
 begin
  
