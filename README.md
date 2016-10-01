@@ -1,6 +1,6 @@
 # Google Map Service Application
 
-Ruby ve Html dilleri ile yazılmış olan, linux işletim sistemi için
+Ruby, Html, JavaScript ve Python dilleri ile yazılmış olan, linux işletim sistemi için
 geliştirilen ve google haritasini istenilen portdan servis olarak
 çalıştırılmasını sağlayan bir yazılımdır.
 
